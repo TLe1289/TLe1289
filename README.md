@@ -1,7 +1,7 @@
 ## About Me
 
 
-**TLe1289/TLe1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**TLe1289/TLe1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Over the past few years, I've honed my skills in Python, Java, and C++, and have actively engaged in AI projects focusing on Computer Vision and Reinforcement Learning. My experience includes working under contract with professors and collaborating with PhD students on cutting-edge research that bridges the gap between theory and practical application.
 
