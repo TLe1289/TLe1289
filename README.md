@@ -10,5 +10,5 @@ I’m currently involved in projects that challenge me to innovate and push the 
 As I continue to grow in my career, I aim to leverage my skills and experiences in a software engineering role, particularly in areas that intersect with AI and machine learning. I'm eager to connect with like-minded professionals and explore opportunities where I can contribute to and learn from innovative projects.
 
 Feel free to connect with me if you’re interested in discussing potential collaborations, career opportunities, or the latest trends in AI and software engineering. 
-My personal email: tommygle72503@gmail.com
+My professional email: tommygle72503@gmail.com
 
